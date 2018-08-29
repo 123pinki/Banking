@@ -1,6 +1,6 @@
-behave==1.2.5
+behave==1.2.6
 pip==9.0.1
-selenium==3.11.0
-six==1.10.0
-faker==0.8.10
+selenium==3.14.0
+six==1.11.0
+faker==0.9.0
 
